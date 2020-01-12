@@ -6,4 +6,5 @@ dependencies:
   - pandas
   - scikit-learn
   - pymc3
+  - seaborn
   
